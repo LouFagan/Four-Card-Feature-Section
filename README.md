@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-./screenshot_Four-card-feature-section.png
+- Screenshot URL: (./screenshot_Four-card-feature-section.png)
 
 ### Links
 
